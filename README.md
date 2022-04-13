@@ -3,7 +3,7 @@
 
 ## About
 
-`pydeleteme` accomplishes nothing, and does so in Python.
+`pydeleteme` accomplishes nothing, using Python.
 
 
 
